@@ -9,6 +9,7 @@ This fork is dedicated to the hard work that Zessa has made to make a HUD that w
 # Zeesa's Social Media accounts
  
 ############# Note #############
+
 These accounts are (well, for now anyways) inactive, or some have some(or all) content that has been deleted and I had to get these from the Wayback Machine. these are only here to show you that it used to belong to Zeesa.
 
 Youtube: https://web.archive.org/web/20220219105230/https://www.youtube.com/c/Zeesastrous
