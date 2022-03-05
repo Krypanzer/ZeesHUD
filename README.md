@@ -5,22 +5,9 @@ The unfortunate part is, however. the fact that there are a lot of people in the
 
 This fork is dedicated to the hard work that Zessa has made to make a HUD that was vastly different from the others and I hope I can be of service if any parts of the HUD breaks. 
 
-
-# Zeesa's Social Media accounts
+# Zeesa's Website
  
-############# Note #############
-
-These accounts are (well, for now anyways) inactive, or some have some(or all) content that has been deleted and I had to get these from the Wayback Machine. these are only here to show you that it used to belong to Zeesa.
-
-Youtube: https://web.archive.org/web/20220219105230/https://www.youtube.com/c/Zeesastrous
-
-Twitter: https://twitter.com/zeesastrophe
-
-Zeesa's Website (2021): https://web.archive.org/web/20220105014159/https://zeesastrous.com/
-
-Zeesa's Website (Current): https://zeesastrous.com/
-
-HUDs.TF: https://huds.tf/site/u-dsfashfffsfsjgfghdsjkhfggdfgkjghfd
+Zeesa's Website (Archived, 2020): https://zeesastrous.com/
 
 # =====Original text starts here======
  
